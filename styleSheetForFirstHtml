@@ -1,0 +1,17 @@
+body{
+    background-color:rgb(207, 175, 107);
+}
+h3, h4, h5{
+    font-size:30px;
+}
+h1{
+    color:rgb(235, 64, 52);
+    font-size:80x;
+    font-family:'Smooch', cursive;
+}
+P{
+    text-align:left;
+    font-family:'Verdana',Segoe UI, Tahoma, Geneva, Geneva, Tahoma, sans-serif, sans-serif;
+    font-size:20px;
+    color:rgb(66, 54, 54)
+}
